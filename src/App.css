@@ -1,0 +1,17 @@
+.App{
+  display: flex;
+  justify-content: center ;
+  max-height: 800px;
+  margin: 0px 0px; 
+/* height: 100vh; */
+}
+
+.container{
+  text-align: center;
+  background-color: aliceblue;
+  padding: 50px;
+  margin: 50px;
+  max-height: 500px;
+  box-shadow: 5px 5px 10px rgb(54, 53, 53);
+  border-radius: 3px;
+}
